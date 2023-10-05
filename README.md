@@ -1,3 +1,3 @@
 Vias App - Final project for Upskill Java 2023
 
-Created by Guilherme Cardoso (@gcardoso93), Filipa Beça (@gitPipaskill), Nuno Pereira (@nunopqqq) and Ricardo Marques (@ricardobamf)
+Created by  Filipa Beça (@gitPipaskill), Guilherme Cardoso (@gcardoso93), Nuno Pereira (@nunopqqq/nunopereira12) and Ricardo Marques (@ricardobamf)
